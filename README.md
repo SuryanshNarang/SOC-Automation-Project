@@ -32,6 +32,12 @@ The system is composed of three main components:
   - **Wazuh Server**: Processes the data received from the Wazuh agent and generates security alerts based on predefined rules.
   - **Wazuh Dashboard**: Provides a visual interface for monitoring security events and alerts.
 
+### Diagram:
+Here's a detailed look at the Wazuh workflow: from agent modules to security alerts via the Elastic Stack.
+
+![Architecture Diagram](https://github.com/SuryanshNarang/SOC-Automation-Project/blob/main/Screenshot%202024-09-23%20115256.png)
+
+
 ### 2. The Hive (Incident Response Platform)
 - **Role**: Manages and tracks security incidents generated from Wazuh alerts. Alerts from Wazuh are ingested into The Hive and transformed into incidents for further investigation.
 - **Functionality**: Analysts can view, investigate, and respond to incidents through The Hive’s user-friendly interface.
