@@ -1,6 +1,6 @@
 # SOC Automation with Wazuh, The Hive, and Shuffle
 
-![Project Workflow Diagram](path/to/your/diagram.png) <!-- Replace with the actual path to your diagram -->
+![Project Workflow Diagram](https://github.com/SuryanshNarang/SOC-Automation-Project/blob/main/SOCAutomation.jpg) <!-- Replace with the actual path to your diagram -->
 
 ## 📋 Introduction
 
